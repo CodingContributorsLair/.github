@@ -5,6 +5,10 @@
   This is CodingContributorsLair 😎
 </h1>
 
-[in progress]
+## Why would I want to join the organisation? :
+ - ### Add another organisation to showcase on your Github account 😁
+ - ### We have plenty of mini apps that you can add you contributions 👩🏻‍💻👨🏻‍💻
+ - ### Develop your open-source skills on the org 💪🏻
+ - ### Work with a developing community 👧🏻👦🏻
 
 
