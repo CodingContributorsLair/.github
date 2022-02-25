@@ -9,6 +9,7 @@
  - ### Add another organisation to showcase on your Github account 😁
  - ### We have plenty of mini apps that you can add you contributions 👩🏻‍💻👨🏻‍💻
  - ### Develop your open-source skills on the org 💪🏻
- - ### Work with a developing community 👧🏻👦🏻
+ - ### Work with a developing community 👧🏻👦
 
+[in progress]
 
