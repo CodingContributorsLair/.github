@@ -11,5 +11,9 @@
  - ### Develop your open-source skills on the org 💪🏻
  - ### Work with a developing community 👧🏻👦
 
-[in progress]
+## How do I join?
+### Remember this 👇🏻
+
+![Invitation](https://user-images.githubusercontent.com/70807684/155737113-422f6950-735d-44c8-9964-5c66ccc8b20e.gif)
+
 
